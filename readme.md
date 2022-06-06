@@ -2,7 +2,9 @@ A project to build a predictive model on Alzheimer's Disease
 
 [Alzheimer's EDA](https://github.com/yinmanli/alzheimer_research/blob/main/Alzheimer_EDA.html)
 
-Methodology for the Project: 
+[Alzheimer's Dataset EDA]
 
-Dataset:
+[Methodology for the Project:] 
+
+[Dataset:]
 
