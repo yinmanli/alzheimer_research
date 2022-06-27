@@ -3,8 +3,11 @@
 **Stages**
 * Data Cleaning and Preprocessing
 * Features Selection
+* Experimental Design
+* Models Evaluation
+* Determine Significane of DIfference between the Number of Males and Females being Demented
 
-
+**Contents**
 [Alzheimer's EDA](https://github.com/yinmanli/alzheimer_research/blob/main/Alzheimer_EDA.html)
 
 [Alzheimer's Dataset EDA Python Code](https://github.com/yinmanli/alzheimer_research/blob/main/alzheimer_EDA.ipynb)
