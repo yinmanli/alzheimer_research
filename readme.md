@@ -21,3 +21,14 @@
 
 [Features Selection - Linear Regression - Output](https://github.com/yinmanli/alzheimer_research/blob/main/00_Linear_Regression_Alzheimer.html)
 
+[Features Selection - Decision Tree - Code](https://github.com/yinmanli/alzheimer_research/blob/main/01_Decision_Tree_Alzheimer.ipynb)
+
+[Features Selection - Decision Tree - Output](https://github.com/yinmanli/alzheimer_research/blob/main/01_Decision_Tree_Alzheimer.html)
+
+[Significant of Difference of Demented/Non-Demented Cases between Male and Female](https://github.com/yinmanli/alzheimer_research/blob/main/02_Male_Female_Alzheimer.ipynb)
+
+[Models Evaluation - Code](https://github.com/yinmanli/alzheimer_research/blob/main/03_Models_Evaluation_Alzheimer.ipynb)
+
+[Models Evaluation - Output](https://github.com/yinmanli/alzheimer_research/blob/main/03_Models_Evaluation_Alzheimer.html)
+
+
