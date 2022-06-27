@@ -17,3 +17,6 @@
 
 [Dataset](https://github.com/yinmanli/alzheimer_research/blob/main/dataset.csv)
 
+[Features Selection - Linear Regression - Code])(https://github.com/yinmanli/alzheimer_research/blob/main/00_Linear_Regression_Alzheimer.ipynb)
+[Features Selection - Linear Regression - Output])(https://github.com/yinmanli/alzheimer_research/blob/main/00_Linear_Regression_Alzheimer.html)
+
