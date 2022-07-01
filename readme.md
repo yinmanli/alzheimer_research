@@ -23,7 +23,7 @@
 
 [Multiple Linear Regression Model-Code](https://github.com/yinmanli/alzheimer_research/blob/main/01_Multiple_Linear_Regression_model_Alzheimer.ipynb)
 
-[Muleiple Linear Regression Model- Output](https://github.com/yinmanli/alzheimer_research/blob/main/01_Multiple_Linear_Regression_model_Alzheimer.html)
+[Multiple Linear Regression Model- Output](https://github.com/yinmanli/alzheimer_research/blob/main/01_Multiple_Linear_Regression_model_Alzheimer.html)
 
 [Features Selection - Decision Tree - Code](https://github.com/yinmanli/alzheimer_research/blob/main/01_Decision_Tree_Alzheimer.ipynb)
 
