@@ -31,8 +31,5 @@
 
 [Significant of Difference of Demented/Non-Demented Cases between Male and Female](https://github.com/yinmanli/alzheimer_research/blob/main/30_Male_Female_Alzheimer.ipynb)
 
-[Models Evaluation - Code](https://github.com/yinmanli/alzheimer_research/blob/main/03_Models_Evaluation_Alzheimer.ipynb)
-
-[Models Evaluation - Output](https://github.com/yinmanli/alzheimer_research/blob/main/03_Models_Evaluation_Alzheimer.html)
 
 
