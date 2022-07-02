@@ -35,7 +35,7 @@
 
 [Decision Tree Model - Output](https://github.com/yinmanli/alzheimer_research/blob/main/11_Decision_Tree_Model_Alzheimer.html)
 
-[Decision Tree Model - Acutal Model(https://github.com/yinmanli/alzheimer_research/blob/main/alzheinmer_tree.pkl)
+[Decision Tree Model - Acutal Model](https://github.com/yinmanli/alzheimer_research/blob/main/alzheinmer_tree.pkl)
 
 [Significant of Difference of Demented/Non-Demented Cases between Male and Female](https://github.com/yinmanli/alzheimer_research/blob/main/30_Male_Female_Alzheimer.ipynb)
 
