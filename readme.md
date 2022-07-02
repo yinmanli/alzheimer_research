@@ -37,6 +37,10 @@
 
 [Decision Tree Model - Acutal Model](https://github.com/yinmanli/alzheimer_research/blob/main/alzheinmer_tree.pkl)
 
+[Features Selection - Random Forest - Code](https://github.com/yinmanli/alzheimer_research/blob/main/20_Random_Forest_Alzheimer.ipynb)
+
+[Features Selection - Random Forest - Output](https://github.com/yinmanli/alzheimer_research/blob/main/20_Random_Forest_Alzheimer.html)
+
 [Significant of Difference of Demented/Non-Demented Cases between Male and Female](https://github.com/yinmanli/alzheimer_research/blob/main/30_Male_Female_Alzheimer.ipynb)
 
 
