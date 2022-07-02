@@ -25,9 +25,17 @@
 
 [Multiple Linear Regression Model- Output](https://github.com/yinmanli/alzheimer_research/blob/main/01_Multiple_Linear_Regression_model_Alzheimer.html)
 
+[Multiple Linear Regression Model - Actual Model](https://github.com/yinmanli/alzheimer_research/blob/main/multiple_LR.pkl)
+
 [Features Selection - Decision Tree - Code](https://github.com/yinmanli/alzheimer_research/blob/main/10_Decision_Tree_Alzheimer.ipynb)
 
 [Features Selection - Decision Tree - Output](https://github.com/yinmanli/alzheimer_research/blob/main/10_Decision_Tree_Alzheimer.html)
+
+[Decision Tree Model - Code](https://github.com/yinmanli/alzheimer_research/blob/main/11_Decision_Tree_Model_Alzheimer.ipynb)
+
+[Decision Tree Model - Output](https://github.com/yinmanli/alzheimer_research/blob/main/11_Decision_Tree_Model_Alzheimer.html)
+
+[Decision Tree Model - Acutal Model(https://github.com/yinmanli/alzheimer_research/blob/main/alzheinmer_tree.pkl)
 
 [Significant of Difference of Demented/Non-Demented Cases between Male and Female](https://github.com/yinmanli/alzheimer_research/blob/main/30_Male_Female_Alzheimer.ipynb)
 
