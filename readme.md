@@ -13,7 +13,7 @@
 
 [Alzheimer's Dataset EDA Python Code](https://github.com/yinmanli/alzheimer_research/blob/main/alzheimer_EDA.ipynb)
 
-[Methodology for the Project](https://github.com/yinmanli/alzheimer_research/blob/main/Methodology.pdf) 
+[Methodology for the Project](https://github.com/yinmanli/alzheimer_research/blob/main/V2_Methodology.pdf)
 
 [Dataset](https://github.com/yinmanli/alzheimer_research/blob/main/dataset.csv)
 
